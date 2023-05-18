@@ -1,0 +1,2 @@
+# ResponsivePricingPanel
+Responsive Pricing Panel 
